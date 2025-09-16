@@ -1,7 +1,9 @@
 👋 Olá, eu sou o Lucas
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de novos desafios.
+
 🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio e complementando com cursos na Udemy.
+
 ☕ Focado em Java e explorando boas práticas de programação, orientação a objetos e desenvolvimento backend.
 
 🚀 Tecnologias e Ferramentas
